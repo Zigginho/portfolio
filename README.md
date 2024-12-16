@@ -1,0 +1,1 @@
+Welcome to my Computer Science portfolio! Here, you'll find a showcase of my projects, skills, and experiences in computer science and artificial intelligence. Dive in to explore innovative solutions, creative problem-solving, and my passion for technology and learning.
